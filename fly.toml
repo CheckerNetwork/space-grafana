@@ -15,6 +15,7 @@ primary_region = 'fra'
 [env]
   GF_INSTALL_PLUGINS = ""
   GF_AUTH_ANONYMOUS_ENABLED = "true"
+  GF_SERVER_DOMAIN = "grafana.filstation.app"
 
 [http_service]
   internal_port = 3000
