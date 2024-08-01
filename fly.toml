@@ -4,7 +4,7 @@
 #
 
 app = 'space-grafana'
-primary_region = 'fra'
+primary_region = 'cdg'
 
 [build]
 
@@ -25,3 +25,4 @@ primary_region = 'fra'
 
 [[vm]]
   size = 'shared-cpu-2x'
+  memory = '512mb'
