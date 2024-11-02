@@ -16,6 +16,7 @@ primary_region = 'cdg'
   GF_INSTALL_PLUGINS = ""
   GF_AUTH_ANONYMOUS_ENABLED = "true"
   GF_SERVER_DOMAIN = "grafana.filstation.app"
+  GF_SECURITY_ADMIN_PASSWORD__FILE="/var/lib/grafana/admin_password"
 
 [http_service]
   internal_port = 3000
