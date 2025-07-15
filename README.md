@@ -1,5 +1,9 @@
 # grafana
 
+> [!CAUTION]
+>
+> **This repository is no longer mantained.**
+
 ## Deployment
 
 ```bash
